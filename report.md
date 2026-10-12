@@ -1,8 +1,9 @@
 # PS-C1 Technical Report: Molecular Ground-State Energy ($H_2$) on Constrained Quantum Architectures
 
 **Track:** Quantum Chemistry (VQE / Ab-Initio)  
-**Problem Statement:** PS-C1: Molecular Ground-State Energy ($H_2$)  
-**Team Name:** Team Antigravity *(Replace with your registered team name)*  
+**Problem Statement:** PS-C1: $H_2$ Ground-State Energy Estimation (Variational Quantum Eigensolver in Minimal STO-3G Basis)  
+**Team Name:** Team X  
+**Team Members:** Shivansh Kumar and Aparna Bhadoriya  
 
 ---
 
