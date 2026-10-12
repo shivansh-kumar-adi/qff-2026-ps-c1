@@ -10,8 +10,8 @@
 
 **Track:** Quantum Chemistry (VQE / Ab-Initio)  
 **Problem Statement ID:** PS-C1 — Molecular Ground State Energy ($H_2$)  
-**Team Name:** *(Insert your registered team name)*  
-**Team Members:** *(Insert your registered team member names)*  
+**Team Name:** *Team X*  
+**Team Members:** *Shivansh Kumar and Aparna Bhadoriya*  
 
 ---
 
