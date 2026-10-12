@@ -1,0 +1,5 @@
+architecture,placement,phys_q0,phys_q1,distance,cx_count,swap_count,depth,noisy_energy,noisy_std,noisy_error_mHa
+processor_A,best,0,1,1,1,0,9,-1.113466,0.004588,23.84
+processor_A,worst,4,2,3,7,2,12,-1.099887,0.005141,37.419
+processor_B,best,0,1,1,1,0,9,-1.113466,0.004588,23.84
+processor_B,worst,4,0,4,10,3,15,-1.092133,0.003683,45.173

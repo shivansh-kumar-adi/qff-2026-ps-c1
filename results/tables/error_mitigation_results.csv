@@ -1,0 +1,5 @@
+stage,energy_hartree,energy_error_hartree,within_chemical_accuracy
+1. Raw Noisy,-1.1136685265680866,0.023637509185313377,False
+2. Readout Mitigated,-1.1309949181007029,0.006311117652697096,False
+3. Readout + Symmetry,-1.132252936879048,0.005053098874352013,False
+4. Readout+Sym+ZNE,-1.1387750598132678,0.0014690240598678184,True
